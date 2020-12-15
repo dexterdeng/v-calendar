@@ -215,7 +215,7 @@ export default {
                       props: {
                         rows: this.rows,
                         columns: this.columns,
-                        columnWidth: 'minmax(256px, 1fr)',
+                        columnWidth: 'minmax(240px, 1fr)',
                         disableFocus: true,
                       },
                       attrs: {
